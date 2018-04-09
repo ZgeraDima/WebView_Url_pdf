@@ -1,0 +1,361 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0433021D207BD71C00F90C8E /* Apple Watch.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0433021C207BD71C00F90C8E /* Apple Watch.pdf */; };
+		0433021F207BD72D00F90C8E /* MacBook Air.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0433021E207BD72D00F90C8E /* MacBook Air.pdf */; };
+		04330221207BD73300F90C8E /* iPhone.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 04330220207BD73300F90C8E /* iPhone.pdf */; };
+		04330223207BD73800F90C8E /* Pattern.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 04330222207BD73800F90C8E /* Pattern.pdf */; };
+		046BDA95207BA4D900DC4D6F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 046BDA94207BA4D900DC4D6F /* AppDelegate.m */; };
+		046BDA98207BA4D900DC4D6F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046BDA97207BA4D900DC4D6F /* ViewController.m */; };
+		046BDA9B207BA4D900DC4D6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046BDA99207BA4D900DC4D6F /* Main.storyboard */; };
+		046BDA9D207BA4D900DC4D6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 046BDA9C207BA4D900DC4D6F /* Assets.xcassets */; };
+		046BDAA0207BA4D900DC4D6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046BDA9E207BA4D900DC4D6F /* LaunchScreen.storyboard */; };
+		046BDAA3207BA4D900DC4D6F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 046BDAA2207BA4D900DC4D6F /* main.m */; };
+		046BDAAD207BA6E800DC4D6F /* viperBook.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 046BDAAC207BA6E800DC4D6F /* viperBook.pdf */; };
+		046BDAC1207BAA5600DC4D6F /* ZDTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046BDAC0207BAA5600DC4D6F /* ZDTableViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0433021C207BD71C00F90C8E /* Apple Watch.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Apple Watch.pdf"; path = "../../../../ Object_DZ_Скут_/DZ_Obj_Skut2/DZ 39 - Skut_WebViev_All/DZ 39 - Skut_WebView2017/DZ 39 Sku_WebView/Apple Watch.pdf"; sourceTree = "<group>"; };
+		0433021E207BD72D00F90C8E /* MacBook Air.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "MacBook Air.pdf"; path = "../../../../ Object_DZ_Скут_/DZ_Obj_Skut2/DZ 39 - Skut_WebViev_All/DZ 39 - Skut_WebView2017/DZ 39 Sku_WebView/MacBook Air.pdf"; sourceTree = "<group>"; };
+		04330220207BD73300F90C8E /* iPhone.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = iPhone.pdf; path = "../../../../ Object_DZ_Скут_/DZ_Obj_Skut2/DZ 39 - Skut_WebViev_All/WebViewDZ-39-master/iPhone.pdf"; sourceTree = "<group>"; };
+		04330222207BD73800F90C8E /* Pattern.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Pattern.pdf; path = ../../../../Books/Pattern.pdf; sourceTree = "<group>"; };
+		046BDA90207BA4D900DC4D6F /* DZ 39 - Skut_WebView2018.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DZ 39 - Skut_WebView2018.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		046BDA93207BA4D900DC4D6F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		046BDA94207BA4D900DC4D6F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		046BDA96207BA4D900DC4D6F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		046BDA97207BA4D900DC4D6F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		046BDA9A207BA4D900DC4D6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		046BDA9C207BA4D900DC4D6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		046BDA9F207BA4D900DC4D6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		046BDAA1207BA4D900DC4D6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		046BDAA2207BA4D900DC4D6F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		046BDAAC207BA6E800DC4D6F /* viperBook.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = viperBook.pdf; sourceTree = "<group>"; };
+		046BDABF207BAA5600DC4D6F /* ZDTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZDTableViewController.h; sourceTree = "<group>"; };
+		046BDAC0207BAA5600DC4D6F /* ZDTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZDTableViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		046BDA8D207BA4D900DC4D6F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		046BDA87207BA4D900DC4D6F = {
+			isa = PBXGroup;
+			children = (
+				046BDA92207BA4D900DC4D6F /* DZ 39 - Skut_WebView2018 */,
+				046BDA91207BA4D900DC4D6F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		046BDA91207BA4D900DC4D6F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				046BDA90207BA4D900DC4D6F /* DZ 39 - Skut_WebView2018.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		046BDA92207BA4D900DC4D6F /* DZ 39 - Skut_WebView2018 */ = {
+			isa = PBXGroup;
+			children = (
+				046BDAAE207BA6FF00DC4D6F /* file.pdf */,
+				046BDA93207BA4D900DC4D6F /* AppDelegate.h */,
+				046BDA94207BA4D900DC4D6F /* AppDelegate.m */,
+				046BDA96207BA4D900DC4D6F /* ViewController.h */,
+				046BDA97207BA4D900DC4D6F /* ViewController.m */,
+				046BDABF207BAA5600DC4D6F /* ZDTableViewController.h */,
+				046BDAC0207BAA5600DC4D6F /* ZDTableViewController.m */,
+				046BDA99207BA4D900DC4D6F /* Main.storyboard */,
+				046BDA9C207BA4D900DC4D6F /* Assets.xcassets */,
+				046BDA9E207BA4D900DC4D6F /* LaunchScreen.storyboard */,
+				046BDAA1207BA4D900DC4D6F /* Info.plist */,
+				046BDAA2207BA4D900DC4D6F /* main.m */,
+			);
+			path = "DZ 39 - Skut_WebView2018";
+			sourceTree = "<group>";
+		};
+		046BDAAE207BA6FF00DC4D6F /* file.pdf */ = {
+			isa = PBXGroup;
+			children = (
+				0433021C207BD71C00F90C8E /* Apple Watch.pdf */,
+				046BDAAC207BA6E800DC4D6F /* viperBook.pdf */,
+				0433021E207BD72D00F90C8E /* MacBook Air.pdf */,
+				04330220207BD73300F90C8E /* iPhone.pdf */,
+				04330222207BD73800F90C8E /* Pattern.pdf */,
+			);
+			path = file.pdf;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		046BDA8F207BA4D900DC4D6F /* DZ 39 - Skut_WebView2018 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 046BDAA6207BA4D900DC4D6F /* Build configuration list for PBXNativeTarget "DZ 39 - Skut_WebView2018" */;
+			buildPhases = (
+				046BDA8C207BA4D900DC4D6F /* Sources */,
+				046BDA8D207BA4D900DC4D6F /* Frameworks */,
+				046BDA8E207BA4D900DC4D6F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DZ 39 - Skut_WebView2018";
+			productName = "DZ 39 - Skut_WebView2018";
+			productReference = 046BDA90207BA4D900DC4D6F /* DZ 39 - Skut_WebView2018.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		046BDA88207BA4D900DC4D6F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = "Dima Zgera";
+				TargetAttributes = {
+					046BDA8F207BA4D900DC4D6F = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 046BDA8B207BA4D900DC4D6F /* Build configuration list for PBXProject "DZ 39 - Skut_WebView2018" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 046BDA87207BA4D900DC4D6F;
+			productRefGroup = 046BDA91207BA4D900DC4D6F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				046BDA8F207BA4D900DC4D6F /* DZ 39 - Skut_WebView2018 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		046BDA8E207BA4D900DC4D6F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04330221207BD73300F90C8E /* iPhone.pdf in Resources */,
+				04330223207BD73800F90C8E /* Pattern.pdf in Resources */,
+				046BDAA0207BA4D900DC4D6F /* LaunchScreen.storyboard in Resources */,
+				0433021D207BD71C00F90C8E /* Apple Watch.pdf in Resources */,
+				046BDA9D207BA4D900DC4D6F /* Assets.xcassets in Resources */,
+				046BDAAD207BA6E800DC4D6F /* viperBook.pdf in Resources */,
+				046BDA9B207BA4D900DC4D6F /* Main.storyboard in Resources */,
+				0433021F207BD72D00F90C8E /* MacBook Air.pdf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		046BDA8C207BA4D900DC4D6F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				046BDA98207BA4D900DC4D6F /* ViewController.m in Sources */,
+				046BDAA3207BA4D900DC4D6F /* main.m in Sources */,
+				046BDA95207BA4D900DC4D6F /* AppDelegate.m in Sources */,
+				046BDAC1207BAA5600DC4D6F /* ZDTableViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		046BDA99207BA4D900DC4D6F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				046BDA9A207BA4D900DC4D6F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		046BDA9E207BA4D900DC4D6F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				046BDA9F207BA4D900DC4D6F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		046BDAA4207BA4D900DC4D6F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		046BDAA5207BA4D900DC4D6F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		046BDAA7207BA4D900DC4D6F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "DZ 39 - Skut_WebView2018/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Zgera-Dima.DZ-39---Skut-WebView2018";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		046BDAA8207BA4D900DC4D6F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "DZ 39 - Skut_WebView2018/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Zgera-Dima.DZ-39---Skut-WebView2018";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		046BDA8B207BA4D900DC4D6F /* Build configuration list for PBXProject "DZ 39 - Skut_WebView2018" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				046BDAA4207BA4D900DC4D6F /* Debug */,
+				046BDAA5207BA4D900DC4D6F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		046BDAA6207BA4D900DC4D6F /* Build configuration list for PBXNativeTarget "DZ 39 - Skut_WebView2018" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				046BDAA7207BA4D900DC4D6F /* Debug */,
+				046BDAA8207BA4D900DC4D6F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 046BDA88207BA4D900DC4D6F /* Project object */;
+}
